@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">cvtest</string>
+    <string name="kill_me">Kill ME!</string>
 </resources>
